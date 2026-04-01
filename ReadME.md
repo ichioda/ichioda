@@ -11,7 +11,7 @@
 
 - 💻 &nbsp;
   ![Golang](https://img.shields.io/badge/-Go-333333?style=flat-square&logo=go)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat-square&logo=C%2B%2B&logoColor=00599C)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat-square&logo=typescript&logoColor=00599C)
   ![Shell Script](https://img.shields.io/badge/Shell%20Script-333333?style=flat-square&logo=GNU%20Bash)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
