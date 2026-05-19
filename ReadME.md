@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Reverse engineering the world with <a href="https://www.frida.re/"><b>Frida</b></a> for the last 5 years.
 - 🤘 &nbsp; Writing Golang code since 2021
-- 🎓 &nbsp; Studying <b>Software Analysis</b> at <a href="https://ucsal.br/"><b>Universidade Católica do Salvador</b></a>.
+- 🎓 &nbsp; Studying <b>Software Analysis</b> at <a href="https://ucsal.br/"><b>Universidade Católica do Salvador</b></a>. (5/5)
 - 💼 &nbsp; Co-founder of <a href="http://vhogal.com/"><b>Vhogal</b></a>
 - 🌱 &nbsp; Learning more about Mobile Development, AppSec and Reverse Engineering everyday.
 
