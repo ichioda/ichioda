@@ -6,7 +6,7 @@
 - 🤘 &nbsp; Writing Golang code since 2021
 - 🎓 &nbsp; Studying <b>Software Analysis</b> at <a href="https://ucsal.br/"><b>Universidade Católica do Salvador</b></a>. (5/5)
 - 💼 &nbsp; Co-founder of <a href="http://vhogal.com/"><b>Vhogal</b></a>
-- 🌱 &nbsp; Learning more about Mobile Development, AppSec and Reverse Engineering (webjs, api, webassembly) everyday.
+- 🌱 &nbsp; Learning more about AppSec and Reverse Engineering (webjs, api, webassembly) everyday.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
