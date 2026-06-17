@@ -1,7 +1,7 @@
 <h2> Hey! I'm George.</h2>
 <img src="https://w.wallhaven.cc/full/xl/wallhaven-xl2k1d.jpg"></>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+- Check my portfolio and articles at: <a href="https://udp.re/"><b>udp.re</b></a>
 - 🤔 &nbsp; Reverse engineering the world with <a href="https://www.frida.re/"><b>Frida</b></a> for the last 5 years.
 - 🤘 &nbsp; Writing Golang code since 2021
 - 🎓 &nbsp; Studying <b>Software Analysis</b> at <a href="https://ucsal.br/"><b>Universidade Católica do Salvador</b></a>. (5/5)
