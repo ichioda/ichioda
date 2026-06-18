@@ -1,4 +1,3 @@
-<img width="268" height="97" alt="image" src="https://github.com/user-attachments/assets/3a468709-9fc4-4caa-8957-ec90d53f4190" /><h2> Hey! I'm George.</h2>
 <img src="https://w.wallhaven.cc/full/xl/wallhaven-xl2k1d.jpg"></>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
