@@ -1,4 +1,4 @@
-<img src="https://w.wallhaven.cc/full/xl/wallhaven-xl2k1d.jpg"></>
+<img src="https://w.wallhaven.cc/full/xl/wallhaven-xl2k1d.jpg">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - ✨ Check my portfolio and articles at: <a href="https://udp.re/"><b>udp.re</b></a>
